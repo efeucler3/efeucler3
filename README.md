@@ -27,11 +27,17 @@ class CreateMan extends EfeUcler {
     void "coding... ❤️"
   }
   
+  private _gaming() {
+    void "gaming 🎮"
+  }
+  
   private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
   
   async createDay() {
     this._eating();
+    this._carting();
     this._coding();
+    this._gaming();
     await this._sleep(18000000);
     
     this.createDay();
