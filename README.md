@@ -1,22 +1,26 @@
 ```js
 class EfeUCler {
   constructor(...options) {
-    this.height = "1.80"
-    this.weight = "85"
-    this.age = "17"
+    this.height = "1.83"
+    this.weight = "70"
+    this.age = "16"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
   }
 }
 
-class CreateMan extends EfeUCler {
+class CreateMan extends EfeUcler {
   constructor(...options) {
     super(options);
   }
   
   private _eating() {
     void "eating 🥩 🍷"
+  }
+  
+  private _carting() {
+    void "carting 🏎️ "
   }
   
   private _coding() {
@@ -34,8 +38,8 @@ class CreateMan extends EfeUCler {
   }
 }
 
-let EfeUCler = new CreateMan()
-EfeUCler.createDay();
+let EfeUcler = new CreateMan()
+EfeUcler.createDay();
 ```
 
 
