@@ -46,4 +46,4 @@ EfeUCler.createDay();
 - ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeucler3&theme=light&hide_langs_below=1" />
-<img src="https://komarev.com/ghpvc/?username=TheWingsss&label=Ziyaretçi%20Sayısı&color=723F98" alt="efeucler3"/>
+<img src="https://komarev.com/ghpvc/?username=efeucler3&label=Ziyaretçi%20Sayısı&color=723F98" alt="efeucler3"/>
