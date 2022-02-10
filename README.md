@@ -57,5 +57,4 @@ EfeUcler.createDay();
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - [![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=efeucler3&theme=dark&hide_langs_below=1")](https://github.com/efeucler3/github-readme-stats)
 - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeucler3&theme=dark&hide_langs_below=1" /> 
-- ![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=efeucler3&theme=dark&hide_langs_below=1&show_icons=true)
 - <img src="https://komarev.com/ghpvc/?username=efeucler3&label=Ziyaretçi%20Sayısı&color=723F98" alt="efeucler3"/>
