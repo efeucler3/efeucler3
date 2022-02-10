@@ -1,17 +1,51 @@
-![image](https://user-images.githubusercontent.com/73705810/153364808-999432f8-a3a1-463f-8517-1a8726e07590.png)
+```js
+class créams {
+  constructor(...options) {
+    this.height = "1.80"
+    this.weight = "85"
+    this.age = "17"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
 
+class CreateMan extends créams {
+  constructor(...options) {
+    super(options);
+  }
+  
+  private _eating() {
+    void "eating 🥩 🍷"
+  }
+  
+  private _coding() {
+    void "coding... ❤️"
+  }
+  
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+  
+  async createDay() {
+    this._eating();
+    this._coding();
+    await this._sleep(18000000);
+    
+    this.createDay();
+  }
+}
 
-- 🌱 I’m currently learning C#
-- ⚡ My Hobbys: Playing Video Games, Does Carting
+let créams = new CreateMan()
+créams.createDay();
+```
 
-[![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=efeucler3)]
- 
+[![Discord Presence](https://lanyard.cnrad.dev/api/719526515032850484)](https://discord.com/users/719526515032850484)
 
-
-
-
-
-
-
-
-
+##  Dostlarım
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWingsss&theme=light&hide_langs_below=1" />
+<img src="https://komarev.com/ghpvc/?username=TheWingsss&label=Ziyaretçi%20Sayısı&color=723F98" alt="TheWingsss"/>
