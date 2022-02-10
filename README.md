@@ -2,9 +2,9 @@
 
 
 - 🌱 I’m currently learning C#
-- ⚡ My Hobbys: Playing Video Games, Do Carting
+- ⚡ My Hobbys: Playing Video Games, Does Carting
 
-[![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=efeucler3)](https://github.com/anuraghazra/github-readme-stats)
+[![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=efeucler3)]
  
 
 
