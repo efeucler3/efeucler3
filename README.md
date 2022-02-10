@@ -19,7 +19,7 @@ class CreateMan extends EfeUcler {
     void "eating 🥩 🍷"
   }
   
-  private _carting() {a
+  private _carting() {
     void "carting 🏎️ "
   }
   
