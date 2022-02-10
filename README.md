@@ -12,7 +12,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<efeucler3>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<efeucler3>&theme=<DarkTheme>" />
 view rawgithub_stats_card hosted with ❤ by GitHub
 
 
