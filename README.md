@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C#
 - ⚡ My Hobbys: Playing Video Games, Does Carting
 
-[![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=efeucler3)]
+!Efe's GitHub stats(https://github-readme-stats.vercel.app/api?username=efeucler3)]
  
 
 
